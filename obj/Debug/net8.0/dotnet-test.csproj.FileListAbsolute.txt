@@ -1,0 +1,14 @@
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\bin\Debug\net8.0\dotnet-test.exe
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\bin\Debug\net8.0\dotnet-test.deps.json
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\bin\Debug\net8.0\dotnet-test.runtimeconfig.json
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\bin\Debug\net8.0\dotnet-test.dll
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\bin\Debug\net8.0\dotnet-test.pdb
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\obj\Debug\net8.0\dotnet-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\obj\Debug\net8.0\dotnet-test.AssemblyInfoInputs.cache
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\obj\Debug\net8.0\dotnet-test.AssemblyInfo.cs
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\obj\Debug\net8.0\dotnet-test.csproj.CoreCompileInputs.cache
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\obj\Debug\net8.0\dotnet-test.dll
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\obj\Debug\net8.0\refint\dotnet-test.dll
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\obj\Debug\net8.0\dotnet-test.pdb
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\obj\Debug\net8.0\dotnet-test.genruntimeconfig.cache
+C:\Users\Agni Nafitri\OneDrive\Dokumen\enigma-tests\dotnet-test\obj\Debug\net8.0\ref\dotnet-test.dll
