@@ -147,12 +147,12 @@ class ParkingLot
 {
     public int SlotNumber { get; set; }
     public bool IsOccupied { get; set; }
-    public Vehicle? Vehicle { get; set; } // Nullable untuk menghindari error
+    public Vehicle? Vehicle { get; set; }
 }
 
 class Vehicle
 {
-    public string RegistrationNumber { get; set; } = string.Empty; // Default value
-    public string Colour { get; set; } = string.Empty;            // Default value
-    public string Type { get; set; } = string.Empty;              // Default value
+    public string RegistrationNumber { get; set; } = string.Empty;
+    public string Colour { get; set; } = string.Empty;           
+    public string Type { get; set; } = string.Empty;             
 }
